@@ -1,0 +1,27 @@
+{
+    "product_title" : "",
+    "product_price" : "",
+    "image_gallery" : [
+        {
+            "title" : "",
+            "url" : ""
+        }
+    ],
+    "varient" : [
+        {
+            "category" : "Size",
+            "items" : [
+                {
+                    "title" : "S",
+                    "description" : ""
+                },
+                {
+                    "title" : "M",
+                    "description" : ""
+                }
+            ]
+        }
+    ],
+    "product_details" : "",
+    "brand" : ""
+}
